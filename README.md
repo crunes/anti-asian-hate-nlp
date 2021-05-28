@@ -10,7 +10,7 @@ An NLP project analyzing tweets on anti-Asian hate during the COVID-19 pandemic 
 
 ### Data
 - __tweets_X.csv__: raw Twitter data output
-- __topics_with_sentiment.csv__: labeled dataset with tweets, topic, and sentiment
+- __topics_with_sentiment.csv__: labeled dataset with tweets, topic, and sentiment (unfortunately too big to upload to GitHub)
 - __dgmm_results.csv__: topic modeling results, with columns for
   - _Text_
   - _Topic_
