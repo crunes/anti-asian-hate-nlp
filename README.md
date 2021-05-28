@@ -4,9 +4,9 @@ An NLP project analyzing tweets on anti-Asian hate during the COVID-19 pandemic 
 ## Description of files
 
 ### Notebooks
-- download_data.ipynb: downloads Twitter data _(70 lines, by Steven)_
-- topic_modeling.ipynb: conducts topic modeling on tweets _(275 lines, by Steven)_
-- sentiment_analysis.ipynb: performs sentiment analysis on tweets _(383 lines, by Charmaine)_
+- __download_data.ipynb__: downloads Twitter data _(70 lines, by Steven)_
+- __topic_modeling.ipynb__: conducts topic modeling on tweets _(275 lines, by Steven)_
+- __sentiment_analysis.ipynb__: performs sentiment analysis on tweets _(383 lines, by Charmaine)_
 
 ### Data
 - __tweets_X.csv__: raw Twitter data output
